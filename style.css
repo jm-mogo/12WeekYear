@@ -1,4 +1,17 @@
+.header {
+    height: 4rem;
+    max-width: 1030px;
+    width: 100%;
+    margin: auto;
+    margin-top: 12px;
+    display: flex;
+    justify-content: end;
+}
 
+.image-icon {
+    padding-right: 12px;
+    height: 80%;
+}
 
 .hero-container {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("img.jpg");
